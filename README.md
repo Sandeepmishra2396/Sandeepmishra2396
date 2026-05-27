@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Sandeep Mishra
 
-<!--
-**Sandeepmishra2396/Sandeepmishra2396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 B.Tech CSE (AI & Robotics) Student  
+💡 Passionate about AI, Automation & Future Technologies  
+🛠 Currently building AI Agents & Smart Applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Skills
+
+- Python
+- C Programming
+- AI Concepts
+- Automation
+- HTML/CSS
+- Git & GitHub
+
+---
+
+## 🚀 Current Focus
+
+- AI Agents
+- Robotics Systems
+- Full Stack Development
+- Open Source Projects
+
+---
+
+## 📌 Featured Project
+
+### 🔥 Maa-AI-Agent
+AI-powered smart assistant project focused on intelligent interaction and automation.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Sandeepmishra2396
+
+---
+
+## ⚡ Fun Fact
+
+I love building futuristic AI systems and learning cutting-edge technologies 🚀
