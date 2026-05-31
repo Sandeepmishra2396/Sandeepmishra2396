@@ -33,12 +33,6 @@ AI-powered smart assistant project focused on intelligent interaction and automa
 
 ---
 
-## 📫 Connect With Me
-
-- GitHub: https://github.com/Sandeepmishra2396
-
----
-
 ## ⚡ Fun Fact
 
 I love building futuristic AI systems and learning cutting-edge technologies 🚀
